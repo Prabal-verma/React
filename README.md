@@ -8,5 +8,6 @@ creating a counter project ( done )
 creating a bg changer project ( done )
 
 creating a password generator project ( done )
+used useState, useEffect, useRef, useCallback hooks to create the project
 
 crating a currency convortor project ( in progress.... )
